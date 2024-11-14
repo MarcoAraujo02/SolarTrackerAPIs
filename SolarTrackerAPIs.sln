@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarTrackerAPIs", "SolarTrackerAPIs.csproj", "{B7494BC6-D795-4EB5-A673-0E3966703323}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarTrackAPIs.Tests", "..\SolarTrackAPIs.Tests\SolarTrackAPIs.Tests.csproj", "{1C976A1F-DDFF-4E7F-8501-8E6888AB126E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B7494BC6-D795-4EB5-A673-0E3966703323}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7494BC6-D795-4EB5-A673-0E3966703323}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7494BC6-D795-4EB5-A673-0E3966703323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C976A1F-DDFF-4E7F-8501-8E6888AB126E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C976A1F-DDFF-4E7F-8501-8E6888AB126E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C976A1F-DDFF-4E7F-8501-8E6888AB126E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C976A1F-DDFF-4E7F-8501-8E6888AB126E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
