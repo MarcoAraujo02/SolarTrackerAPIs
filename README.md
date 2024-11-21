@@ -42,6 +42,9 @@ Segue exemplo de um EndPoint no qual usamos Enum para cadastrar como ativo ou de
 
 ## Testes automatizados da API
 Utilizando o Xunit e moq realizamos testes na API para os metodos de estabelecimentos, usuarios, placa solares e registros da placa
+
+<br>
+
 ![image](https://github.com/user-attachments/assets/fab8f8ac-4133-450f-8da7-0b6b88e7f304)
 
 
